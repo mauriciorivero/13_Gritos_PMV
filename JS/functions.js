@@ -1,0 +1,1 @@
+document.getElementById("menu_principal").style.display = "none";
